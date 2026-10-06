@@ -9,10 +9,14 @@ h3 {
   text-align: center;
 }
 
+p {
+  padding: 10px;
+}
+
 img {
   display: block;
   margin: auto;
-  width: 60%;
+  width: 30%;
 }
 
 .navigation-links {
